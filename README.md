@@ -33,4 +33,4 @@ I'm a Roma web developer, and I won't write much here, but I can't work without 
 [![Steam](https://img.shields.io/badge/-Steam-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/manimrlywanttodie/)  
 
 ---
-[![Spotify](https://mynovatorem.vercel.app/api/spotify)](https://open.spotify.com/user/sxqen9pzv1t0donf6vjonen2m)
+[![Spotify](https://novatorem52.vercel.app)](https://open.spotify.com/user/sxqen9pzv1t0donf6vjonen2m)
