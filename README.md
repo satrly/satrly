@@ -35,12 +35,13 @@ I'm a Roma web developer, and I won't write much here, but I can't work without 
 ---
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=sxqen9pzv1t0donf6vjonen2m&redirect=true">
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=sxqen9pzv1t0donf6vjonen2m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
       alt="Spotify GitHub Profile" 
-      width="700"
+      width="600"
     />
   </a>
 </p>
+
 
