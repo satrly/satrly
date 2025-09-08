@@ -14,7 +14,6 @@ I'm Roma, web developer, and I won't write much here, but I can't work without h
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-black?logo=csharp&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?logo=graphql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/-C-black?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white)  
 ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white)
