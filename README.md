@@ -24,9 +24,5 @@ I'm a Roma web developer, and I won't write much here, but I can't work without 
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?logo=google-analytics&logoColor=white)
 
 ## u can find me here
-[![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&logoColor=white)](https://t.me/satrly))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?logo=instagram&logoColor=white)](https://instagram.com/your_username)
-[![VK](https://img.shields.io/badge/-VK-black?logo=vk&logoColor=white)](https://vk.com/your_username)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/your_username)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&logoColor=white)](https://t.me/satrly)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&logoColor=white)](mailto:satrlycooperation@gmail.com)
