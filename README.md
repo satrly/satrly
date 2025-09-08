@@ -21,7 +21,10 @@ I'm a Roma web developer, and I won't write much here, but I can't work without 
 ![Trello](https://img.shields.io/badge/-Trello-black?logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-black?logo=miro&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?logo=google-analytics&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?logo=google-analytics&logoColor=white)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark)
 
 ## u can find me here
 [![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&logoColor=white)](https://t.me/satrly)
