@@ -30,3 +30,7 @@ I'm a Roma web developer, and I won't write much here, but I can't work without 
 [![Discord](https://img.shields.io/badge/-Discord-black?logo=discord&logoColor=white)](https://discordapp.com/users/428573518796423188)
 [![Codewars](https://img.shields.io/badge/-Codewars-black?logo=codewars&logoColor=white)](https://www.codewars.com/users/satrly)
 [![Steam](https://img.shields.io/badge/-Steam-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/manimrlywanttodie/)
+
+<a href="https://open.spotify.com/user/your_username">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spotify.svg" width="30"/>
+</a>
