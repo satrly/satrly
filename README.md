@@ -16,7 +16,7 @@ I'm a Roma web developer, and I won't write much here, but I can't work without 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?logo=graphql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/-C-black?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white)  
 ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-black?logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&logoColor=white)
