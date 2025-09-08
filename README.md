@@ -27,6 +27,6 @@ I'm a Roma web developer, and I won't write much here, but I can't work without 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&logoColor=white)](https://t.me/satrly)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&logoColor=white)](mailto:satrlycooperation@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-black?logo=spotify&logoColor=white)](https://open.spotify.com/user/sxqen9pzv1t0donf6vjonen2m)
-[![Discord](https://img.shields.io/badge/-Discord-black?logo=discord&logoColor=white)](https://discordapp.com/users/ohsatrlydiedagain)
+[![Discord](https://img.shields.io/badge/-Discord-black?logo=discord&logoColor=white)](https://discordapp.com/users/428573518796423188)
 [![Codewars](https://img.shields.io/badge/-Codewars-black?logo=codewars&logoColor=white)](https://www.codewars.com/users/satrly)
 [![Steam](https://img.shields.io/badge/-Steam-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/manimrlywanttodie/)
